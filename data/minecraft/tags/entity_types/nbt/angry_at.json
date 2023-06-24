@@ -3,6 +3,7 @@
   "values": [
     "minecraft:wolf",
     "minecraft:iron_golem",
-    "minecraft:enderman"
+    "minecraft:enderman",
+     "minecraft:piglin"
   ]
 }
