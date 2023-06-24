@@ -1,0 +1,13 @@
+{
+	"condition": "minecraft:entity_properties",
+	"entity": "this",
+	"predicate": {
+		"type_specific": {
+			"type": "slime",
+			"size": {
+				"min": 0,
+				"max": 1
+			}
+		}
+	}
+}
