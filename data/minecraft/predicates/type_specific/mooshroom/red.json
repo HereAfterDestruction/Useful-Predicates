@@ -1,10 +1,1 @@
-{
-	"condition": "minecraft:entity_properties",
-	"entity": "this",
-	"predicate": {
-		"type_specific": {
-			"type": "mooshroom",
-			"variant": "red"
-		}
-	}
-}
+{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type_specific":{"type":"mooshroom","variant":"red"}}}

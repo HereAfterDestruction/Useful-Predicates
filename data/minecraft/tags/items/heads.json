@@ -1,10 +1,1 @@
-{
-	"values": [
-		{"id":"minecraft:player_head","required":false},
-		{"id":"minecraft:creeper_head","required":false},
-		{"id":"minecraft:zombie_head","required":false},
-		{"id":"minecraft:skeleton_skull","required":false},
-		{"id":"minecraft:wither_skeleton_skull","required":false},
-		{"id":"minecraft:piglin_head","required":false}
-	]
-}
+{"values":[{"id":"minecraft:player_head","required":false},{"id":"minecraft:creeper_head","required":false},{"id":"minecraft:zombie_head","required":false},{"id":"minecraft:skeleton_skull","required":false},{"id":"minecraft:wither_skeleton_skull","required":false},{"id":"minecraft:piglin_head","required":false}]}

@@ -1,9 +1,1 @@
-{
-	"values": [
-		"minecraft:wooden_axe",
-		"minecraft:wooden_sword",
-		"minecraft:wooden_hoe",
-		"minecraft:wooden_pickaxe",
-		"minecraft:wooden_shovel"
-	]
-}
+{"values":["minecraft:wooden_axe","minecraft:wooden_sword","minecraft:wooden_hoe","minecraft:wooden_pickaxe","minecraft:wooden_shovel"]}

@@ -1,1 +1,1 @@
-you can delete the range predicates and just use min & max to create it
+youcandeletetherangepredicatesandjustusemin&maxtocreateit

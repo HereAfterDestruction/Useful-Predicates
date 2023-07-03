@@ -1,6 +1,1 @@
-{
-	"condition": "minecraft:location_check",
-	"predicate": {
-		"smokey": true
-	}
-}
+{"condition":"minecraft:location_check","predicate":{"smokey":true}}

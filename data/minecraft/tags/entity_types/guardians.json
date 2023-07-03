@@ -1,7 +1,1 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:guardian",
-    "minecraft:elder_guardian"
-  ]
-}
+{"replace":false,"values":["minecraft:guardian","minecraft:elder_guardian"]}

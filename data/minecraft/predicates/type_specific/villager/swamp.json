@@ -1,10 +1,1 @@
-{
-	"condition": "minecraft:entity_properties",
-	"entity": "this",
-	"predicate": {
-		"type_specific": {
-			"type": "villager",
-			"variant": "minecraft:swamp"
-		}
-	}
-}
+{"condition":"minecraft:entity_properties","entity":"this","predicate":{"type_specific":{"type":"villager","variant":"minecraft:swamp"}}}

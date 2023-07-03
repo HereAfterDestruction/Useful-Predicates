@@ -1,9 +1,1 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:wolf",
-    "minecraft:iron_golem",
-    "minecraft:enderman",
-     "minecraft:piglin"
-  ]
-}
+{"replace":false,"values":["minecraft:wolf","minecraft:iron_golem","minecraft:enderman","minecraft:piglin"]}

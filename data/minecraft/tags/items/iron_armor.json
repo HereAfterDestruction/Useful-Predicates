@@ -1,8 +1,1 @@
-{
-	"values": [
-		"minecraft:iron_helmet",
-		"minecraft:iron_chestplate",
-		"minecraft:iron_leggings",
-		"minecraft:iron_boots"
-	]
-}
+{"values":["minecraft:iron_helmet","minecraft:iron_chestplate","minecraft:iron_leggings","minecraft:iron_boots"]}

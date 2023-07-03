@@ -1,9 +1,1 @@
-{
-	"values": [
-		"minecraft:stone_axe",
-		"minecraft:stone_sword",
-		"minecraft:stone_hoe",
-		"minecraft:stone_pickaxe",
-		"minecraft:stone_shovel"
-	]
-}
+{"values":["minecraft:stone_axe","minecraft:stone_sword","minecraft:stone_hoe","minecraft:stone_pickaxe","minecraft:stone_shovel"]}

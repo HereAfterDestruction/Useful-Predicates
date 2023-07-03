@@ -1,13 +1,1 @@
-{
-  "replace": false,
-  "values": [
-    "minecraft:guardian",
-    "minecraft:elder_guardian",
-    "minecraft:cod",
-    "minecraft:salmon",
-    "minecraft:squid",
-    "minecraft:glow_squid",
-    "minecraft:tropical_fish",
-    "minecraft:pufferfish"
-  ]
-}
+{"replace":false,"values":["minecraft:guardian","minecraft:elder_guardian","minecraft:cod","minecraft:salmon","minecraft:squid","minecraft:glow_squid","minecraft:tropical_fish","minecraft:pufferfish"]}
